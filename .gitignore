@@ -2,7 +2,17 @@
 *.csv
 *.fits
 *.parquet
-# *.pth
+*.pth
 # Other potential large files
 *.h5
 *.pkl
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+src/*.egg-info/
+*.egg-info/
