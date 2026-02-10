@@ -16,3 +16,5 @@ __pycache__/
 # Build artifacts
 src/*.egg-info/
 *.egg-info/
+
+*.code-workspace
