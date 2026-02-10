@@ -2,7 +2,7 @@
 *.csv
 *.fits
 *.parquet
-# *.pth
+*.pth
 # Other potential large files
 *.h5
 *.pkl
